@@ -1,5 +1,5 @@
 === Address Lookup Now ===
-Contributors: wpcoder110
+Contributors: ahmerhassan110
 Tags: address search, autocomplete, service locator, address finder, redirect
 Requires at least: 5.0
 Tested up to: 6.7
