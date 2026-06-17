@@ -4,7 +4,7 @@ Tags: address search, autocomplete, service locator, address finder, redirect
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.6.0
+Stable tag: 1.7.0
 License: Commercial
 License URI: https://addresslookupnow.com
 
