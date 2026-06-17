@@ -118,6 +118,15 @@ Ensure WordPress Cron is running — some hosts require a real cron job to trigg
 
 == Changelog ==
 
+= 1.7.0 =
+* Significantly improved address search speed and responsiveness
+* Fixed an issue causing search errors on some sites with caching enabled
+* Smoother autocomplete experience with faster, more accurate suggestions while typing
+* Prevented duplicate or premature form submissions while a search is processing
+* Hardened the address field against browser autofill interference
+* Fixed autocomplete suggestions appearing in the wrong position on mobile devices
+* Fixed the Zip Code "Required" warning overlapping the search button on mobile
+
 = 1.6.0 =
 * Added local database sync — addresses imported into wp_af_addresses table for fast search (supports 20,000+ addresses)
 * Save & Sync fetches data, truncates and re-imports in a single transaction for reliability
